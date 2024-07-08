@@ -6,3 +6,4 @@ python -m pip --version
 commentare: ctrl + k + c
 uncommentare: ctrl +k + u
 comando per startare: uvicorn cartella_progetto.cartella_database.api:app --reload
+http://127.0.0.1:8000/docs#/
